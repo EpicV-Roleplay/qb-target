@@ -27,7 +27,7 @@ Config.Debug = false
 Config.Standalone = false
 
 -- Enable outlines around the entity you're looking at
-Config.EnableOutline = false
+Config.EnableOutline = true
 
 -- Whether to have the target as a toggle or not
 Config.Toggle = false
